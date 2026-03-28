@@ -9,4 +9,13 @@ return {
   ---@diagnostics disable: missing-fields
   opts = {},
   ---@diagnostics enable: missing-fields
+  -- keys = {
+  --   {
+  --     '<leader>ff',
+  --     function()
+  --       require('fzf-lua').files()
+  --     end,
+  --     desc = 'Find Files in Current Working Directory',
+  --   },
+  -- },
 }
